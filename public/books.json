@@ -1,0 +1,62 @@
+[
+  {
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "year": 1988,
+    "description": "A philosophical novel about a young shepherd named Santiago who dreams of discovering a hidden treasure. On his journey, he learns valuable life lessons about fate, perseverance, and following one's dreams."
+  },
+  {
+    "title": "Atomic Habits",
+    "author": "James Clear",
+    "year": 2018,
+    "description": "This book explores how small daily habits, when consistently practiced, can lead to remarkable personal and professional growth. It provides practical strategies for breaking bad habits and building positive ones."
+  },
+  {
+    "title": "1984",
+    "author": "George Orwell",
+    "year": 1949,
+    "description": "A dystopian novel that paints a terrifying picture of a totalitarian regime where surveillance, propaganda, and thought control dominate. The protagonist, Winston Smith, dares to seek the truth in a world ruled by lies."
+  },
+  {
+    "title": "Rich Dad Poor Dad",
+    "author": "Robert Kiyosaki",
+    "year": 1997,
+    "description": "A personal finance book that contrasts the financial philosophies of two father figures—the 'rich dad' and the 'poor dad.' It teaches readers how to develop financial intelligence and build wealth through investments and assets."
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "year": 1960,
+    "description": "A timeless novel that explores themes of racial injustice, moral growth, and empathy. Set in the American South, it follows young Scout Finch as she witnesses her father, Atticus Finch, defend an innocent black man in court."
+  },
+  {
+    "title": "The Lean Startup",
+    "author": "Eric Ries",
+    "year": 2011,
+    "description": "A must-read for entrepreneurs, this book provides a scientific approach to building and growing startups. It emphasizes rapid prototyping, customer feedback, and continuous improvement to achieve business success."
+  },
+  {
+    "title": "The Power of Now",
+    "author": "Eckhart Tolle",
+    "year": 1997,
+    "description": "A spiritual guide that emphasizes living in the present moment. The book explains how mindfulness and awareness can help people break free from stress, anxiety, and negative thought patterns."
+  },
+  {
+    "title": "The 7 Habits of Highly Effective People",
+    "author": "Stephen R. Covey",
+    "year": 1989,
+    "description": "A leadership and self-improvement book that presents seven principles for personal and professional effectiveness. It encourages readers to cultivate habits like proactive thinking, prioritization, and synergy."
+  },
+  {
+    "title": "Sapiens: A Brief History of Humankind",
+    "author": "Yuval Noah Harari",
+    "year": 2011,
+    "description": "A fascinating exploration of human history, from the early days of Homo sapiens to modern civilization. It examines how culture, religion, economics, and science have shaped the world we live in today."
+  },
+  {
+    "title": "Deep Work",
+    "author": "Cal Newport",
+    "year": 2016,
+    "description": "A productivity book that highlights the importance of focused, distraction-free work. It provides practical tips on how to cultivate deep concentration in an age of digital distractions."
+  }
+]

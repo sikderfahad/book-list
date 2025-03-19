@@ -1,0 +1,51 @@
+.bookCard {
+  border: 1px solid #ddd;
+  padding: 15px;
+  border-radius: 8px;
+  background: #f9f9f9;
+  box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+  transition: transform 0.2s ease-in-out;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.bookCard:hover {
+  transform: scale(1.02);
+}
+
+.title {
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-bottom: 0px;
+}
+.author {
+  margin: 5px 0px;
+  font-size: 14px;
+}
+.author,
+.year {
+  color: #555;
+}
+
+.button {
+  margin-top: 10px;
+  padding: 8px 12px;
+  border: none;
+  background: #007bff;
+  color: white;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.button:hover {
+  background: #0056b3;
+}
+
+.description {
+  margin-top: 10px;
+  font-style: italic;
+  color: #444;
+  text-align: justify;
+}
