@@ -62,8 +62,8 @@ This is a **single-page React application** that displays a list of books. Users
 ### 1️⃣ Clone the Repository
 
 ```sh
-git clone https://github.com/your-username/my-book-app.git
-cd my-book-app
+git clone https://github.com/sikderfahad/book-list.git
+cd book-list
 ```
 
 ### 2️⃣ Install Dependencies
