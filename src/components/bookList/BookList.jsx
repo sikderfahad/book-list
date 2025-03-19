@@ -6,6 +6,7 @@ const BookList = () => {
   const [booksData, setBooksData] = useState([]);
   const [searchTerm, setSearchTerm] = useState("");
 
+  // Load books data (local)
   useEffect(() => {
     fetch("books.json")
       .then((response) => response.json())
@@ -13,6 +14,7 @@ const BookList = () => {
       .catch((error) => console.error("Error fetching books:", error));
   }, []);
 
+  // Display books according to search filter
   const filteredBooks = booksData.filter(
     (book) =>
       book.title.toLowerCase().includes(searchTerm.toLowerCase()) ||

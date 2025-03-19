@@ -2,6 +2,7 @@ import { useState } from "react";
 import styles from "../../styles/Book.module.css";
 
 const Book = ({ book }) => {
+  // Declare state for toggling books description
   const [showDescription, setShowDescription] = useState(false);
 
   return (
@@ -14,7 +15,6 @@ const Book = ({ book }) => {
           (<strong>Author:</strong> {book.author})
         </p>
         <p className={styles.year}>
-          {/* <strong>Published year:</strong> {book.year} */}
           Published year:{" "}
           <strong
             style={{
